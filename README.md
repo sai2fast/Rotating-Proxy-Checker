@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/dd10d66e-b709-4107-9988-8bc75232e376)
+
+
 This program basically checks how many unique IPs a rotating pool has and what kind of IPs it stores statistics about IP location data and more to text files. 
 enjoy this amazing beautiful code.
 
