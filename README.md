@@ -1,3 +1,7 @@
+WINDOWS PYTHON 3.7 PYCURL ONLY!
+WINDOWS PYCURL
+LINUX PYCURL
+
 ![image](https://github.com/user-attachments/assets/dd10d66e-b709-4107-9988-8bc75232e376)
 
 
